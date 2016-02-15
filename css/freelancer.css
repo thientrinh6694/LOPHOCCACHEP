@@ -457,3 +457,12 @@ footer .footer-below {
     display: none;
     opacity: 0;
 }
+
+.btn-primary {
+    border-color: #2C3E50;
+    color: #fff;
+    background-color: ##2C3E50;
+    -webkit-transition: all .35s;
+    -moz-transition: all .35s;
+    transition: all .35s;
+}
